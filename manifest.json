@@ -18,5 +18,10 @@
         "https://*/*"
       ]
     }
-  ] 
+  ],
+  
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
 }
