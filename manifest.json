@@ -20,8 +20,5 @@
     }
   ],
   
-  "permissions": [
-    "activeTab",
-    "scripting"
-  ]
+  "permissions": []
 }
